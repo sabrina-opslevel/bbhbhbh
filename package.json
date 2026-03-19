@@ -1,0 +1,30 @@
+{
+  "name": "bbhbhbh",
+  "version": "1.0.0",
+  "description": "Repository demonstrating standardized documentation practices",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npm run lint:md",
+    "lint:md": "markdownlint '**/*.md' --ignore node_modules",
+    "lint:fix": "markdownlint '**/*.md' --ignore node_modules --fix",
+    "spellcheck": "mdspell '**/*.md' --en-us --ignore-numbers --ignore-acronyms --report",
+    "spellcheck:interactive": "mdspell '**/*.md' --en-us --ignore-numbers --ignore-acronyms",
+    "validate": "npm run lint && npm run spellcheck"
+  },
+  "keywords": [
+    "documentation",
+    "standards",
+    "markdown",
+    "linting"
+  ],
+  "author": "OpsLevel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabrina-opslevel/bbhbhbh.git"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.37.0",
+    "markdown-spellcheck": "^1.3.1"
+  }
+}
