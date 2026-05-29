@@ -1,0 +1,47 @@
+# markdown-spellcheck spelling configuration file
+# Add custom words and exceptions here, one per line
+
+# Technical terms
+API
+APIs
+bbhbhbh
+CLI
+DevOps
+GitHub
+JSDoc
+Javadoc
+JSON
+Markdown
+markdownlint
+npm
+OpsLevel
+README
+TypeScript
+YAML
+changelog
+godoc
+localhost
+npm
+repo
+repos
+spellcheck
+username
+
+# Conventional commits types
+chore
+ci
+feat
+perf
+refactor
+
+# Common abbreviations
+e.g
+i.e
+etc
+vs
+
+# Format-specific
+atx
+docstring
+docstrings
+fenced
