@@ -1,3 +1,10 @@
+## Code Ownership
+
+This repository is owned and maintained by the **@payments-platform** team. All pull requests will automatically request review from the team as defined in the [CODEOWNERS](.github/CODEOWNERS) file.
+
+For questions about code ownership or to request changes to the ownership structure, please contact the payments-platform team.
+
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam blandit, mauris at porttitor bibendum, enim elit posuere libero, sed sagittis turpis libero tincidunt sem. Fusce nec erat justo. Fusce commodo efficitur risus ut gravida. Cras ex felis, aliquet non gravida sed, pellentesque sed odio. Aenean eget facilisis nisi. Morbi suscipit scelerisque massa, aliquet imperdiet eros fermentum nec. Aliquam erat volutpat. Suspendisse euismod sem lectus, id molestie nisl ullamcorper in. Donec quis sagittis sem. Duis quis luctus odio, sit amet imperdiet augue. Pellentesque mauris ex, fringilla eu nulla ut, maximus pellentesque felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque rhoncus augue eget lacus fermentum semper. Proin dapibus nibh commodo augue vestibulum fermentum. Donec non interdum nunc, eget lacinia urna. Sed non nibh tortor.
 

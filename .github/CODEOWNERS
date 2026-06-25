@@ -1,0 +1,25 @@
+# CODEOWNERS file for Payments Team
+# 
+# This file defines code ownership for the repository.
+# When a pull request is opened, GitHub will automatically request
+# reviews from the teams or individuals specified here.
+#
+# Documentation: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Ownership Structure:
+# - @payments-platform is the default owner for all files in this repository
+# - This ensures proper review routing and maintains code quality standards
+# - The payments-platform team will be automatically notified of all PRs
+#
+# Modifying Ownership:
+# To add specific ownership for certain paths or file types, add entries above
+# the default rule using the pattern: <file-pattern> <owner(s)>
+# Example: /docs/ @payments-platform @documentation-team
+#
+# Integration with Branch Protection:
+# This CODEOWNERS file works in conjunction with branch protection rules.
+# Ensure that your branch protection settings require review from code owners
+# for this to be enforced on pull requests.
+
+# Default ownership - @payments-platform owns all files
+* @payments-platform
